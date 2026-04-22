@@ -1,0 +1,19 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Cache + generated data
+data/cache/
+data/master.rds
+data/latest_snapshot.rds
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
