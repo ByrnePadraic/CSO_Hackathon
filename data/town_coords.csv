@@ -1,0 +1,149 @@
+county,town,latitude,longitude
+Dublin,Dublin City,53.3498,-6.2603
+Dublin,Tallaght,53.2859,-6.3733
+Dublin,Finglas,53.3890,-6.3000
+Dublin,Dun Laoghaire,53.2944,-6.1344
+Dublin,Swords,53.4597,-6.2181
+Dublin,Blanchardstown,53.3897,-6.3758
+Dublin,Clondalkin,53.3244,-6.3972
+Dublin,Lucan,53.3570,-6.4486
+Dublin,Raheny,53.3777,-6.1803
+Dublin,Ballyfermot,53.3428,-6.3548
+Cork,Cork City,51.8985,-8.4756
+Cork,Ballincollig,51.8870,-8.5940
+Cork,Mahon,51.8830,-8.4050
+Cork,Douglas,51.8774,-8.4365
+Cork,Carrigaline,51.8110,-8.3980
+Cork,Mallow,52.1363,-8.6389
+Cork,Bandon,51.7447,-8.7441
+Cork,Cobh,51.8503,-8.2943
+Cork,Midleton,51.9143,-8.1758
+Cork,Youghal,51.9543,-7.8506
+Cork,Fermoy,52.1350,-8.2750
+Cork,Clonakilty,51.6231,-8.8872
+Cork,Skibbereen,51.5486,-9.2705
+Cork,Bantry,51.6806,-9.4525
+Cork,Kinsale,51.7059,-8.5227
+Galway,Galway City,53.2707,-9.0568
+Galway,Tuam,53.5147,-8.8544
+Galway,Ballinasloe,53.3275,-8.2194
+Galway,Loughrea,53.1960,-8.5663
+Galway,Athenry,53.2989,-8.7431
+Galway,Oranmore,53.2739,-8.9753
+Galway,Gort,53.0658,-8.8166
+Galway,Clifden,53.4884,-10.0191
+Limerick,Limerick City,52.6638,-8.6267
+Limerick,Newcastle West,52.4492,-9.0616
+Limerick,Rathkeale,52.5227,-8.9380
+Limerick,Abbeyfeale,52.3819,-9.3027
+Limerick,Kilmallock,52.4000,-8.5742
+Waterford,Waterford City,52.2583,-7.1119
+Waterford,Dungarvan,52.0894,-7.6253
+Waterford,Tramore,52.1614,-7.1525
+Waterford,Lismore,52.1364,-7.9347
+Waterford,Portlaw,52.2897,-7.3201
+Kerry,Tralee,52.2713,-9.7016
+Kerry,Killarney,52.0599,-9.5044
+Kerry,Listowel,52.4467,-9.4859
+Kerry,Castleisland,52.2336,-9.4661
+Kerry,Kenmare,51.8802,-9.5833
+Kerry,Dingle,52.1408,-10.2685
+Kerry,Killorglin,52.1058,-9.7833
+Kerry,Cahersiveen,51.9489,-10.2228
+Mayo,Castlebar,53.8608,-9.2988
+Mayo,Ballina,54.1167,-9.1550
+Mayo,Westport,53.8014,-9.5220
+Mayo,Claremorris,53.7228,-9.0024
+Mayo,Belmullet,54.2278,-9.9908
+Mayo,Swinford,53.9403,-8.9500
+Donegal,Letterkenny,54.9500,-7.7344
+Donegal,Buncrana,55.1333,-7.4500
+Donegal,Donegal Town,54.6538,-8.1113
+Donegal,Ballybofey,54.8010,-7.7831
+Donegal,Bundoran,54.4778,-8.2809
+Donegal,Killybegs,54.6330,-8.4496
+Kildare,Naas,53.2158,-6.6669
+Kildare,Newbridge,53.1817,-6.7967
+Kildare,Celbridge,53.3386,-6.5441
+Kildare,Leixlip,53.3661,-6.4956
+Kildare,Maynooth,53.3810,-6.5937
+Kildare,Athy,52.9914,-6.9808
+Kildare,Kildare Town,53.1593,-6.9086
+Kildare,Monasterevin,53.1405,-7.0664
+Wicklow,Bray,53.2026,-6.0983
+Wicklow,Greystones,53.1440,-6.0633
+Wicklow,Wicklow Town,52.9792,-6.0449
+Wicklow,Arklow,52.7936,-6.1410
+Wicklow,Blessington,53.1717,-6.5328
+Meath,Navan,53.6528,-6.6811
+Meath,Trim,53.5561,-6.7917
+Meath,Ashbourne,53.5117,-6.3980
+Meath,Kells,53.7265,-6.8797
+Meath,Laytown,53.6819,-6.2392
+Meath,Dunboyne,53.4169,-6.4731
+Meath,Ratoath,53.5081,-6.4623
+Louth,Dundalk,54.0014,-6.4050
+Louth,Drogheda,53.7189,-6.3478
+Louth,Ardee,53.8581,-6.5408
+Louth,Carlingford,54.0408,-6.1883
+Wexford,Wexford Town,52.3369,-6.4633
+Wexford,Enniscorthy,52.5036,-6.5642
+Wexford,Gorey,52.6747,-6.2925
+Wexford,New Ross,52.3970,-6.9472
+Wexford,Rosslare,52.2767,-6.3842
+Wexford,Bunclody,52.6555,-6.6535
+Kilkenny,Kilkenny City,52.6541,-7.2448
+Kilkenny,Callan,52.5458,-7.3911
+Kilkenny,Castlecomer,52.8066,-7.2107
+Kilkenny,Thomastown,52.5261,-7.1377
+Kilkenny,Graiguenamanagh,52.5407,-6.9542
+Tipperary,Clonmel,52.3558,-7.7044
+Tipperary,Thurles,52.6819,-7.8047
+Tipperary,Nenagh,52.8619,-8.1967
+Tipperary,Tipperary Town,52.4728,-8.1558
+Tipperary,Cashel,52.5158,-7.8906
+Tipperary,Carrick-on-Suir,52.3493,-7.4137
+Clare,Ennis,52.8436,-8.9864
+Clare,Shannon,52.7039,-8.8642
+Clare,Kilrush,52.6397,-9.4831
+Clare,Ennistymon,52.9436,-9.2922
+Clare,Killaloe,52.8085,-8.4430
+Sligo,Sligo Town,54.2697,-8.4694
+Sligo,Tubbercurry,54.0461,-8.7225
+Sligo,Strandhill,54.2712,-8.5933
+Sligo,Enniscrone,54.2119,-9.0918
+Cavan,Cavan Town,53.9908,-7.3606
+Cavan,Bailieborough,53.9167,-6.9667
+Cavan,Cootehill,54.0725,-7.0800
+Cavan,Belturbet,54.1028,-7.4497
+Monaghan,Monaghan Town,54.2492,-6.9683
+Monaghan,Carrickmacross,53.9728,-6.7189
+Monaghan,Castleblayney,54.1197,-6.7397
+Monaghan,Clones,54.1828,-7.2297
+Roscommon,Roscommon Town,53.6278,-8.1894
+Roscommon,Boyle,53.9717,-8.2975
+Roscommon,Castlerea,53.7661,-8.5014
+Roscommon,Ballaghaderreen,53.9000,-8.5833
+Leitrim,Carrick-on-Shannon,53.9469,-8.0906
+Leitrim,Manorhamilton,54.3045,-8.1761
+Leitrim,Mohill,53.8567,-7.8594
+Leitrim,Drumshanbo,54.0500,-8.0440
+Longford,Longford Town,53.7256,-7.7931
+Longford,Granard,53.7791,-7.4941
+Longford,Lanesborough,53.6641,-7.9857
+Longford,Edgeworthstown,53.6994,-7.6153
+Westmeath,Athlone,53.4239,-7.9407
+Westmeath,Mullingar,53.5244,-7.3378
+Westmeath,Kinnegad,53.4542,-7.0997
+Westmeath,Moate,53.3947,-7.7178
+Offaly,Tullamore,53.2736,-7.4925
+Offaly,Birr,53.0914,-7.9133
+Offaly,Edenderry,53.3395,-7.0478
+Offaly,Clara,53.3425,-7.6131
+Laois,Portlaoise,53.0344,-7.3003
+Laois,Portarlington,53.1622,-7.1911
+Laois,Mountmellick,53.1136,-7.3203
+Laois,Abbeyleix,52.9136,-7.3447
+Carlow,Carlow Town,52.8367,-6.9264
+Carlow,Bagenalstown,52.7000,-6.9667
+Carlow,Tullow,52.8006,-6.7364

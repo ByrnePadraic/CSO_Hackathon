@@ -259,7 +259,7 @@ ui <- fluidPage(
     
     div(
       class = "hero",
-      div(class = "hero-title", "RSA Test Centre Analysis"),
+      div(class = "hero-title", "RSA Driving Test Centre Analysis"),
       p(class = "hero-subtitle",
         "Explore pass rates, current wait times, and test centre recommendations."),
       div(class = "chip", "Sourced from CSO PxStat data")
